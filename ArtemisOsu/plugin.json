@@ -1,0 +1,10 @@
+{
+  "Guid": "fd35c665-c7b9-4156-bd35-e0c263c5e4b0",
+  "Name": "ArtemisOsu",
+  "Description": "Get Osu stats in Artemis",
+  "Author": "th3ant",
+  "Website": null,
+  "Repository": null,
+  "Version": "1.0.0.0",
+  "Main": "ArtemisOsu.dll"
+}
