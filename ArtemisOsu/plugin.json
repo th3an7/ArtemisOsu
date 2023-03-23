@@ -6,5 +6,6 @@
   "Website": null,
   "Repository": null,
   "Version": "1.0.0.0",
-  "Main": "ArtemisOsu.dll"
+  "Main": "ArtemisOsu.dll",
+  "Api": "1.0"
 }
